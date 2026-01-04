@@ -1,4 +1,4 @@
-## Udacity_Data_Science_Course_Project1
+## Udacity Data Science Course Project #1
 This project analyzes historical development indicators to determine how economic and infrastructure factors drive human longevity.
 
 ## Analyzing Global Development Drivers
