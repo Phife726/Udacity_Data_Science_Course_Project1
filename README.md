@@ -9,7 +9,7 @@ This project applies the CRISP-DM (Cross-Industry Standard Process for Data Mini
 
 ## 2. Project Deliverables
 
-Project#1 (3).ipynb: A comprehensive Jupyter Notebook documenting the six phases of the data science process: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Findings.
+Project_1.ipynb: A comprehensive Jupyter Notebook documenting the six phases of the data science process: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Findings.
 World_Economic_Data_Indicator_List_Final_v2.csv: The source dataset containing historical World Bank indicators from 2000–2024.
 README.md: Technical documentation providing an overview of the project scope and results.
 
